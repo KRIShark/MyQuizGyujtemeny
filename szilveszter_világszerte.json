@@ -1,0 +1,182 @@
+[
+  {
+    "Question": "Miért szokás Spanyolországban 12 szőlőszemet enni éjfélkor szilveszterkor?",
+    "WaitTimeInSec": 25,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        { "Text": "Mert minden szőlőszem egy hónap szerencsét hoz az új évben", "IsCorrect": true },
+        { "Text": "Mert a szőlő az évszázadok óta a spanyol nemzeti gyümölcs", "IsCorrect": false },
+        { "Text": "Mert így gyorsabban telik az éjfél", "IsCorrect": false },
+        { "Text": "Mert a szőlő jól passzol a pezsgőhöz", "IsCorrect": false }
+      ]
+    }
+  },
+  {
+    "Question": "Mely országban hagyomány a porcelántörés szilveszterkor szeretteid ajtajánál, hogy több szerencséd legyen?",
+    "WaitTimeInSec": 25,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        { "Text": "Dánia", "IsCorrect": true },
+        { "Text": "Japán", "IsCorrect": false },
+        { "Text": "Brazília", "IsCorrect": false },
+        { "Text": "Oroszország", "IsCorrect": false }
+      ]
+    }
+  },
+  {
+    "Question": "Mit dobnak a brazíliaiak gyakran a tengerbe szilveszterkor a jó szerencse reményében?",
+    "WaitTimeInSec": 20,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        { "Text": "Fehér virágokat", "IsCorrect": true },
+        { "Text": "Tollakat", "IsCorrect": false },
+        { "Text": "Pénzérméket", "IsCorrect": false },
+        { "Text": "Csillámporral teli lufikat", "IsCorrect": false }
+      ]
+    }
+  },
+  {
+    "Question": "Hol gyújtanak effigy-t (szalmabábukat) és égetik el őket, mintegy „megtisztítva” az előző évet?",
+    "WaitTimeInSec": 20,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        { "Text": "Ecuador", "IsCorrect": true },
+        { "Text": "Kína", "IsCorrect": false },
+        { "Text": "Németország", "IsCorrect": false },
+        { "Text": "Skócia", "IsCorrect": false }
+      ]
+    }
+  },
+  {
+    "Question": "Melyik országban él az a szokás, hogy az emberek hosszú tésztát esznek szilveszterkor a hosszú élet reményében?",
+    "WaitTimeInSec": 20,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        { "Text": "Japán", "IsCorrect": true },
+        { "Text": "Olaszország", "IsCorrect": false },
+        { "Text": "Spanyolország", "IsCorrect": false },
+        { "Text": "Mexikó", "IsCorrect": false }
+      ]
+    }
+  },
+  {
+    "Question": "Hol hisznek abban, hogy ha az első vendég, aki belép az ajtón éjfél után, sötét hajú férfi, akkor az szerencsét hoz?",
+    "WaitTimeInSec": 20,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        { "Text": "Skóciában", "IsCorrect": true },
+        { "Text": "Finnországban", "IsCorrect": false },
+        { "Text": "Kanadában", "IsCorrect": false },
+        { "Text": "Ausztriában", "IsCorrect": false }
+      ]
+    }
+  },
+  {
+    "Question": "Melyik országban kapcsolnak ki hagyományosan minden hangos petárdát és helyette lágy fényekkel ünnepelnek, hogy inkluzívabb legyen a szilveszter?",
+    "WaitTimeInSec": 14,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        { "Text": "Görögország és Ciprus", "IsCorrect": true },
+        { "Text": "Oroszország", "IsCorrect": false },
+        { "Text": "Brazília", "IsCorrect": false },
+        { "Text": "Írország", "IsCorrect": false }
+      ]
+    }
+  },
+  {
+    "Question": "Mi azonban a világhírű Times Square szilveszteri eseményénél 1907 óta hagyományos módja az újév köszöntésének?",
+    "WaitTimeInSec": 10,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "A szilveszteri babonák között sokan hiszik, hogy ha január 1-jén egy évre kenyeret törsz, több pénzed lesz – igaz vagy hamis?",
+    "WaitTimeInSec": 10,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "Spanyolországban minden egyes éjfélkori harangkondulásnál egy szőlőt kell gyorsan megenni – igaz vagy hamis?",
+    "WaitTimeInSec": 10,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "Mely országban szokás „szilveszteri tésztaevés”, hogy hosszú életet kívánjon az ember?",
+    "WaitTimeInSec": 13,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        { "Text": "Japán", "IsCorrect": true },
+        { "Text": "Ecuador", "IsCorrect": false },
+        { "Text": "Németország", "IsCorrect": false },
+        { "Text": "Kína", "IsCorrect": false }
+      ]
+    }
+  },
+  {
+    "Question": "Melyik országban dobálják az édességet vagy rizst, hogy bőséget hozzon az új évre?",
+    "WaitTimeInSec": 11,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        { "Text": "Németország", "IsCorrect": false },
+        { "Text": "Latin-amerikai országok", "IsCorrect": true },
+        { "Text": "Norvégia", "IsCorrect": false },
+        { "Text": "Kanada", "IsCorrect": false }
+      ]
+    }
+  },
+  {
+    "Question": "Hogyan köszöntik gyakran az új évet a brazilok a tengerben rögtön éjfél után?",
+    "WaitTimeInSec": 12,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        { "Text": "Hét hullám felett ugranak", "IsCorrect": true },
+        { "Text": "Havas szökőkútba lépnek", "IsCorrect": false },
+        { "Text": "Denevér jelmezben táncolnak", "IsCorrect": false },
+        { "Text": "Szikláról siklanak", "IsCorrect": false }
+      ]
+    }
+  },
+  {
+    "Question": "Melyik országban a nagy evés, zene és tánc elengedhetetlen része a szilveszteri ünneplésnek?",
+    "WaitTimeInSec": 10,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "A világ számos helyén a tűzijáték eredetileg azért terjedt el, hogy elűzze a rossz szellemeket az új év kezdetén – igaz vagy hamis?",
+    "WaitTimeInSec": 10,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  }
+]

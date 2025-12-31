@@ -1,0 +1,111 @@
+[
+  {
+    "Question": "A magyar törzsek honfoglalása 895 körül kezdődött.",
+    "WaitTimeInSec": 20,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "Szent István király uralkodása alatt Magyarország pogány állam maradt.",
+    "WaitTimeInSec": 20,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": false
+      }
+    }
+  },
+  {
+    "Question": "Melyik évben zajlott a tatárjárás Magyarországon?",
+    "WaitTimeInSec": 20,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        { "Text": "955", "IsCorrect": false },
+        { "Text": "1241–1242", "IsCorrect": true },
+        { "Text": "1526", "IsCorrect": false },
+        { "Text": "1849", "IsCorrect": false }
+      ]
+    }
+  },
+  {
+    "Question": "IV. Béla királyt a „második honalapítónak” is nevezik.",
+    "WaitTimeInSec": 20,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "A mohácsi csatában 1526-ban a magyar sereg győzelmet aratott.",
+    "WaitTimeInSec": 20,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": false
+      }
+    }
+  },
+  {
+    "Question": "Mi lett a mohácsi vereség egyik közvetlen következménye?",
+    "WaitTimeInSec": 20,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        { "Text": "Az ország három részre szakadása", "IsCorrect": true },
+        { "Text": "A kiegyezés megkötése", "IsCorrect": false },
+        { "Text": "A trianoni békeszerződés", "IsCorrect": false },
+        { "Text": "A honfoglalás lezárása", "IsCorrect": false }
+      ]
+    }
+  },
+  {
+    "Question": "A török hódoltság Magyarországon kevesebb mint 50 évig tartott.",
+    "WaitTimeInSec": 20,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": false
+      }
+    }
+  },
+  {
+    "Question": "Mikor tört ki az 1848–49-es forradalom és szabadságharc?",
+    "WaitTimeInSec": 20,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        { "Text": "1703", "IsCorrect": false },
+        { "Text": "1848", "IsCorrect": true },
+        { "Text": "1867", "IsCorrect": false },
+        { "Text": "1918", "IsCorrect": false }
+      ]
+    }
+  },
+  {
+    "Question": "Az Osztrák–Magyar Monarchia 1867-ben jött létre.",
+    "WaitTimeInSec": 20,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "A trianoni békeszerződést Magyarország 1918-ban írta alá.",
+    "WaitTimeInSec": 20,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": false
+      }
+    }
+  }
+]

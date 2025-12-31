@@ -1,0 +1,139 @@
+[
+  {
+    "Question": "Mi az? Édesanyád gyereke, de neked nem a testvéred? 🤔",
+    "WaitTimeInSec": 15,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        { "Text": "A te magad", "IsCorrect": true },
+        { "Text": "A szomszéd gyereke", "IsCorrect": false },
+        { "Text": "Egy kiskutya", "IsCorrect": false },
+        { "Text": "Egy hős pizzafutár", "IsCorrect": false }
+      ]
+    }
+  },
+  {
+    "Question": "Akárhova vitték mindig fejbe verték – mi az? 😆",
+    "WaitTimeInSec": 15,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        { "Text": "Szög", "IsCorrect": true },
+        { "Text": "Labda", "IsCorrect": false },
+        { "Text": "Néger csók", "IsCorrect": false },
+        { "Text": "Egy fánk", "IsCorrect": false }
+      ]
+    }
+  },
+  {
+    "Question": "Melyik út *soha* nem porzik? 🚗💨",
+    "WaitTimeInSec": 12,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        { "Text": "Tejút", "IsCorrect": true },
+        { "Text": "Autópálya", "IsCorrect": false },
+        { "Text": "Tengerparti sétaút", "IsCorrect": false },
+        { "Text": "Terepút", "IsCorrect": false }
+      ]
+    }
+  },
+  {
+    "Question": "Mi az, ami piros, berreg, és nagyon lassan folyik? 🍅🐝",
+    "WaitTimeInSec": 12,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        { "Text": "Csigavér", "IsCorrect": true },
+        { "Text": "Piros lámpa", "IsCorrect": false },
+        { "Text": "Mézeskalács traktor", "IsCorrect": false },
+        { "Text": "Paradicsomos tészta", "IsCorrect": false }
+      ]
+    }
+  },
+  {
+    "Question": "Melyik fa van a legtöbb a vásárban? 🌳🤨",
+    "WaitTimeInSec": 12,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        { "Text": "Kofa (vásáros)", "IsCorrect": true },
+        { "Text": "Tölgyfa", "IsCorrect": false },
+        { "Text": "Fenyőfa", "IsCorrect": false },
+        { "Text": "Banánfa", "IsCorrect": false }
+      ]
+    }
+  },
+  {
+    "Question": "Mi az: ha felébreszted, semmi nem történik? 😴",
+    "WaitTimeInSec": 10,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "Mondj egy állatot, amely magasabb egy zsiráfnál! 🦒👠",
+    "WaitTimeInSec": 14,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        { "Text": "Zsiráf tűsarkú cipőben", "IsCorrect": true },
+        { "Text": "Elefánt kúszónadrágban", "IsCorrect": false },
+        { "Text": "Kalaúz flamingó", "IsCorrect": false },
+        { "Text": "Óriáskígyó", "IsCorrect": false }
+      ]
+    }
+  },
+  {
+    "Question": "Mi az a találós kérdés, amitől a legtöbb ember fáradt lesz ha nem szereti? 😅",
+    "WaitTimeInSec": 10,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "Mi van a csúcson 10 tonna és a háztetőn? 🏠⚖️",
+    "WaitTimeInSec": 12,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        { "Text": "Két 5 tonnás veréb", "IsCorrect": true },
+        { "Text": "Egy elefánt", "IsCorrect": false },
+        { "Text": "Egy bicikli", "IsCorrect": false },
+        { "Text": "Egy óriási pizza", "IsCorrect": false }
+      ]
+    }
+  },
+  {
+    "Question": "Mi az: zöld és repül? 🐸✈️",
+    "WaitTimeInSec": 10,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        { "Text": "Mókus zöld kabátban, békanyelvet gyakorol", "IsCorrect": true },
+        { "Text": "Zöld repülőgép", "IsCorrect": false },
+        { "Text": "Zöld légy", "IsCorrect": false },
+        { "Text": "UFO uborka", "IsCorrect": false }
+      ]
+    }
+  },
+  {
+    "Question": "Miért karikás az ördög szeme? 😈👀",
+    "WaitTimeInSec": 11,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        { "Text": "Mert sohasem alszik", "IsCorrect": true },
+        { "Text": "Mert túl sokat nézi a horrorfilmet", "IsCorrect": false },
+        { "Text": "Mert mindig veszít a pókerben", "IsCorrect": false },
+        { "Text": "Mert kávé nélkül nem indul a nap", "IsCorrect": false }
+      ]
+    }
+  }
+]
