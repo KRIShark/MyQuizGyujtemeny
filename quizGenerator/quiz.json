@@ -1,0 +1,107 @@
+[
+  {
+    "Question": "Magyarország fővárosa Budapest.",
+    "WaitTimeInSec": 10,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "Melyik folyó szeli át Budapestet?",
+    "WaitTimeInSec": 12,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Duna",
+          "IsCorrect": true
+        },
+        {
+          "Text": "Tisza",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Maros",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Rába",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "A magyar zászló piros-fehér-zöld színekből áll.",
+    "WaitTimeInSec": 9,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "Mely nyelvcsaládhoz tartozik a magyar nyelv?",
+    "WaitTimeInSec": 11,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "uráli nyelvcsalád",
+          "IsCorrect": true
+        },
+        {
+          "Text": "indoeurópai nyelvcsalád",
+          "IsCorrect": false
+        },
+        {
+          "Text": "szemita nyelvcsalád",
+          "IsCorrect": false
+        },
+        {
+          "Text": "román nyelvcsalád",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "A magyar fizetőeszköz a forint.",
+    "WaitTimeInSec": 8,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "Magyarország legmagasabb hegye melyik?",
+    "WaitTimeInSec": 10,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Kékes",
+          "IsCorrect": true
+        },
+        {
+          "Text": "Mátra-csúcs",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Galyas-tető",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Köves-tető",
+          "IsCorrect": false
+        }
+      ]
+    }
+  }
+]
