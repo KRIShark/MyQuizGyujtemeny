@@ -1,0 +1,217 @@
+[
+  {
+    "Question": "Németország az Európai Unió tagja.",
+    "WaitTimeInSec": 12,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "Németország fővárosa?",
+    "WaitTimeInSec": 14,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Bécs",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Berlin",
+          "IsCorrect": true
+        },
+        {
+          "Text": "Hamburg",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Prága",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "Németország legnagyobb városa Berlin.",
+    "WaitTimeInSec": 12,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "Melyik folyó halad Berlinen át?",
+    "WaitTimeInSec": 12,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Elba",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Rajnai",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Spree",
+          "IsCorrect": true
+        },
+        {
+          "Text": "Havel",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "Németország déli része általában hegyesebb, mint északi része.",
+    "WaitTimeInSec": 12,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "Melyik Németországi tartomány a legnagyobb területre?",
+    "WaitTimeInSec": 12,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Bajorország",
+          "IsCorrect": true
+        },
+        {
+          "Text": "Észak-Rajna-Vesztfália",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Szászország",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Mecklenburg-Vorpommern",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "Az Oktoberfest híresen Münchenben zajlik.",
+    "WaitTimeInSec": 12,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "Melyik autógyártó cég származik Németországból? (több válasz is helyes lehet)",
+    "WaitTimeInSec": 15,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Mercedes-Benz",
+          "IsCorrect": true
+        },
+        {
+          "Text": "BMW",
+          "IsCorrect": true
+        },
+        {
+          "Text": "Toyota",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Renault",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "Németország 16 szövetségi államból áll.",
+    "WaitTimeInSec": 10,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "Köln híres a dómjáról és a karácsonyi piacairól.",
+    "WaitTimeInSec": 12,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "München híres a sörfőzdéiről.",
+    "WaitTimeInSec": 12,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "Németországban a legtöbb ember német nyelvet beszéli anyanyelveként.",
+    "WaitTimeInSec": 12,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "Melyik városnak van Németországban a legnagyobb repülőtere?",
+    "WaitTimeInSec": 12,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Frankfurt",
+          "IsCorrect": true
+        },
+        {
+          "Text": "Munich",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Berlin",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Hamburg",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "Németország fővárosa München?",
+    "WaitTimeInSec": 12,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": false
+      }
+    }
+  }
+]

@@ -1,7 +1,7 @@
 import asyncio
 import json
 from typing import Any, Optional
-from agents import Agent, OpenAIChatCompletionsModel, Runner, function_tool
+from agents import Agent, OpenAIChatCompletionsModel, Runner, function_tool, trace
 from dotenv import load_dotenv
 from openai import AsyncOpenAI
 from ddgs import DDGS
@@ -91,11 +91,18 @@ async def main(model = None):
     ]
     ```
     Always include this formatting for any quiz you produce, and always add sources if available, or explicitly state if no sources were found.
-    """
     
-    USER = """
-    Create a quiz of Hungary in hungarian language. Answer only with the given json
+    
+    Output minimum 10 Question answers. Make sure true False Answers are not always true.
     """
+
+    prompts = []
+
+    with open("thema.json", "r", encoding="utf-8") as file:
+        data = file.read()
+        
+        d = json.loads(data)
+        prompts = d["thema"]
     
     if(model is None):
         model = OpenAIChatCompletionsModel( 
@@ -104,19 +111,25 @@ async def main(model = None):
         )      
     
     agent = Agent(name="Quiz Generator", instructions=INSTRUCTION, tools=[search_on_duckduckgo, search_on_duckduckgo_books, search_on_duckduckgo_news], model=model, output_type=Quiz)
+    res = None
+    with trace("Quiz Generator"):
+        i = 1
+        for prompt in prompts:
+            print("-"*12)
+            print(f"User instruction: {prompt}.")
+            res = await Runner.run(agent, input=prompt)
     
-    res = await Runner.run(agent, input=USER)
-    
-    quiz: Quiz = res.final_output
-    
-    # Dump ONLY the array to match your required output format:
-    quiz_array = quiz.model_dump(mode="json", exclude_none=True)["Questions"]
+            quiz: Quiz = res.final_output
+            
+            # Dump ONLY the array to match your required output format:
+            quiz_array = quiz.model_dump(mode="json", exclude_none=True)["Questions"]
 
-    with open("quiz.json", "w", encoding="utf-8") as f:
-        json.dump(quiz_array, f, ensure_ascii=False, indent=2)
+            with open(f"{i}_quiz.json", "w", encoding="utf-8") as f:
+                json.dump(quiz_array, f, ensure_ascii=False, indent=2)
 
-    # Optional: print to console
-    print(json.dumps(quiz_array, ensure_ascii=False, indent=2))
+            # Optional: print to console
+            print(json.dumps(quiz_array, ensure_ascii=False, indent=2))
+            i = i + 1
 
 
 if __name__ == "__main__":

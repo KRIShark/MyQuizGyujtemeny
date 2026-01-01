@@ -1,0 +1,212 @@
+[
+  {
+    "Question": "Magyarország fővárosa Budapest.",
+    "WaitTimeInSec": 12,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "A Balaton Magyarország legnagyobb tava.",
+    "WaitTimeInSec": 14,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "A magyar nyelv a finnugor nyelvek közé tartozik.",
+    "WaitTimeInSec": 12,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "Gulyásleves horvát konyha tipikus étele.",
+    "WaitTimeInSec": 13,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": false
+      }
+    }
+  },
+  {
+    "Question": "A magyar zászló három vízszintes sávból áll.",
+    "WaitTimeInSec": 15,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "A Parlament épülete Budapesten található.",
+    "WaitTimeInSec": 12,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "Melyik város a magyar főváros?",
+    "WaitTimeInSec": 10,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Debrecen",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Budapest",
+          "IsCorrect": true
+        },
+        {
+          "Text": "Szeged",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Pécs",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "Melyik állítás igaz a Balatonra?",
+    "WaitTimeInSec": 15,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "A Balaton egy tengervíz-tó.",
+          "IsCorrect": false
+        },
+        {
+          "Text": "A Balaton Magyarország legnagyobb tava.",
+          "IsCorrect": true
+        },
+        {
+          "Text": "A Balaton partvonal hossza kb. 77 km.",
+          "IsCorrect": true
+        },
+        {
+          "Text": "A Balaton vizének sótartalma magas.",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "Melyik étel tipikus magyar étel?",
+    "WaitTimeInSec": 12,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Gulyásleves",
+          "IsCorrect": true
+        },
+        {
+          "Text": "Lasagne",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Sushi",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Tiramisu",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "Mely ital tekinthető híresnek Magyarországon?",
+    "WaitTimeInSec": 11,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Pálinka",
+          "IsCorrect": true
+        },
+        {
+          "Text": "Cidre",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Whisky",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Tequila",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "Mely nyelvet beszélik Magyarországon hivatalosan?",
+    "WaitTimeInSec": 14,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Magyar",
+          "IsCorrect": true
+        },
+        {
+          "Text": "Francia",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Japán",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Svéd",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "Tokaj borvidék Magyarországon található.",
+    "WaitTimeInSec": 13,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Tokaj",
+          "IsCorrect": true
+        },
+        {
+          "Text": "Eger",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Szekszárd",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Kiskunhalas",
+          "IsCorrect": false
+        }
+      ]
+    }
+  }
+]
