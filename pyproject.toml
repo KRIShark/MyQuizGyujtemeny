@@ -1,7 +1,7 @@
 [project]
 name = "myquizgyujtemeny"
 version = "0.1.0"
-description = "Add your description here"
+description = "This project generates structured quiz questions using an LLM and validates the output with Pydantic v2. The final result is saved as a pure JSON array that matches the required quiz schema."
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
