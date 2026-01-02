@@ -1,0 +1,177 @@
+[
+  {
+    "Question": "A Földön a legnagyobb kontinens az Afrikai kontinens.",
+    "WaitTimeInSec": 12,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": false
+      }
+    }
+  },
+  {
+    "Question": "Melyik ország a legnagyobb területű a világon?",
+    "WaitTimeInSec": 15,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Kanada – a hó és a fenyőfák királysága",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Oroszország – a szovjet színes szövetek birodalma",
+          "IsCorrect": true
+        },
+        {
+          "Text": "USA – a hamburgerek és a szabad szél birodalma",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Kína – a konfuciánus kávé és a sárgarépa birodalma",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "A Szibériai terület a Föld legnagyobb szigete.",
+    "WaitTimeInSec": 10,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": false
+      }
+    }
+  },
+  {
+    "Question": "Melyik országban található a világ legnagyobb sivataga, a Sahara?",
+    "WaitTimeInSec": 14,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Niger – a sivatag színes színképzője",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Mali – a kávé és a sárgarépa birodalma",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Algéria – a sivatag és a tengerpartok királysága",
+          "IsCorrect": true
+        },
+        {
+          "Text": "Chad – a kaktusz és a kávé birodalma",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "Az Antarktisz a legkevesebb emberrel lakott kontinens.",
+    "WaitTimeInSec": 9,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "Melyik ország a világ legkisebb állam terület szerint?",
+    "WaitTimeInSec": 13,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Monaco – a luxus és a kávé birodalma",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Nauru – a kávé és a kaktusz birodalma",
+          "IsCorrect": false
+        },
+        {
+          "Text": "San Marino – a színház és a kávé birodalma",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Vatikán – a papok és a csokoládé birodalma",
+          "IsCorrect": true
+        }
+      ]
+    }
+  },
+  {
+    "Question": "Az Indonézia több mint 17 000 szigetből áll.",
+    "WaitTimeInSec": 11,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "Melyik tenger a világ legnagyobb belső víztestje?",
+    "WaitTimeInSec": 16,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Tiszta-tenger – a tiszta víz és a kávé birodalma",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Kaspiai-tó – a sárgarépa és a kávé birodalma",
+          "IsCorrect": true
+        },
+        {
+          "Text": "Török-tengerek – a kávé és a kaktusz birodalma",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Fekete-tenger – a kávé és a sárgarépa birodalma",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "A Föld legnagyobb szigete a Grönland.",
+    "WaitTimeInSec": 10,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "Melyik ország a legnagyobb a világon a lakosság alapján?",
+    "WaitTimeInSec": 12,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Kína – a konfuciánus kávé és a sárgarépa birodalma",
+          "IsCorrect": true
+        },
+        {
+          "Text": "India – a kávé és a sárgarépa birodalma",
+          "IsCorrect": false
+        },
+        {
+          "Text": "USA – a hamburgerek és a szabad szél birodalma",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Indonézia – a kávé és a kaktusz birodalma",
+          "IsCorrect": false
+        }
+      ]
+    }
+  }
+]

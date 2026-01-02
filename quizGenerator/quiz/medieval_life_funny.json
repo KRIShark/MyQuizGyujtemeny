@@ -1,0 +1,237 @@
+[
+  {
+    "Question": "A középkori magyar háztartásokban a kávé már a 12. században elérhető volt.",
+    "WaitTimeInSec": 10,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": false
+      }
+    }
+  },
+  {
+    "Question": "A középkori magyarok Wi‑Fi‑t használtak a falusi piacokon.",
+    "WaitTimeInSec": 10,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": false
+      }
+    }
+  },
+  {
+    "Question": "A középkori magyarok márkózott fa padlóval rendelkeztek, így a szobákban mindig kellemesen csörögött a járás.",
+    "WaitTimeInSec": 10,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "A középkori magyarok csöpögő WC‑t használtak, így a fürdőszobákban mindig friss víz csordult.",
+    "WaitTimeInSec": 10,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": false
+      }
+    }
+  },
+  {
+    "Question": "A középkori magyarok a középkori konyhában már használhattak mikrohullámú sütőt, hogy gyorsan felmelegítsék a halat.",
+    "WaitTimeInSec": 10,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": false
+      }
+    }
+  },
+  {
+    "Question": "A középkori magyarok a középkori konyhában már használhattak fogkefét, hogy a fogak tisztán ragyogjanak a templom szoborainál.",
+    "WaitTimeInSec": 10,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": false
+      }
+    }
+  },
+  {
+    "Question": "Melyik a középkori magyar háztartásban leggyakoribb „eszköz”?",
+    "WaitTimeInSec": 10,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Toaster",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Ironing board",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Stone hearth",
+          "IsCorrect": true
+        },
+        {
+          "Text": "Microwave",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "Mi volt az első nyomtatott könyv Magyarországon?",
+    "WaitTimeInSec": 10,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "The Bible",
+          "IsCorrect": false
+        },
+        {
+          "Text": "The Chronicle of Hungary",
+          "IsCorrect": true
+        },
+        {
+          "Text": "The Code of Laws",
+          "IsCorrect": false
+        },
+        {
+          "Text": "The Book of Hours",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "Melyik modern kényelmi szolgáltatás NEM volt elérhető a középkori magyarok számára?",
+    "WaitTimeInSec": 10,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Electricity",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Running water",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Telephones",
+          "IsCorrect": false
+        },
+        {
+          "Text": "All of the above",
+          "IsCorrect": true
+        }
+      ]
+    }
+  },
+  {
+    "Question": "Mi volt a fő fényforrás a középkori magyar otthonokban?",
+    "WaitTimeInSec": 10,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Candles",
+          "IsCorrect": true
+        },
+        {
+          "Text": "Electric bulbs",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Solar panels",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Fireflies",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "Melyik étel NEM volt gyakori a középkori magyar étrendben?",
+    "WaitTimeInSec": 10,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Bread",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Fish",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Coffee",
+          "IsCorrect": true
+        },
+        {
+          "Text": "Meat",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "Melyik a középkori magyar divat jellemző kiegészítője?",
+    "WaitTimeInSec": 10,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Sunglasses",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Cloak",
+          "IsCorrect": true
+        },
+        {
+          "Text": "Smartwatch",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Earbuds",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "Melyik a középkori magyarok által használt kommunikációs módszer?",
+    "WaitTimeInSec": 10,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Email",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Carrier pigeons",
+          "IsCorrect": true
+        },
+        {
+          "Text": "SMS",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Social media",
+          "IsCorrect": false
+        }
+      ]
+    }
+  }
+]

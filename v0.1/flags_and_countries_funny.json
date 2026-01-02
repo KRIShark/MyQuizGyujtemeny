@@ -1,0 +1,177 @@
+[
+  {
+    "Question": "A Chad és a Románia zászlója ugyanaz, csak a színek sorrendje különbözik.",
+    "WaitTimeInSec": 10,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "Melyik ország zászlója gyakran összekeveredik az ír zászlóval, mert mindkettő zöld, fehér és narancs/ piros sávokkal rendelkezik?",
+    "WaitTimeInSec": 12,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Olaszország",
+          "IsCorrect": true
+        },
+        {
+          "Text": "Magyarország",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Spanyolország",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Portugália",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "Az Etiópia zászlója három vízszintes sávból áll, zöld, sárga és piros.",
+    "WaitTimeInSec": 9,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": false
+      }
+    }
+  },
+  {
+    "Question": "Melyik zászló gyakran összekeveredik a Chad zászlójával a színek miatt?",
+    "WaitTimeInSec": 11,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Románia",
+          "IsCorrect": true
+        },
+        {
+          "Text": "Kekülőföld",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Szenegál",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Mali",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "A magyar zászló három színű, zöld, fehér és narancs, és a sávok vízszintesen helyezkednek el.",
+    "WaitTimeInSec": 10,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": false
+      }
+    }
+  },
+  {
+    "Question": "Melyik ország zászlóján van arany pentagram egy kék körben a középen?",
+    "WaitTimeInSec": 13,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Etiópia",
+          "IsCorrect": true
+        },
+        {
+          "Text": "Chad",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Románia",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Írország",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "A Francia zászló három vízszintes sávból áll, kék, fehér és piros.",
+    "WaitTimeInSec": 9,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": false
+      }
+    }
+  },
+  {
+    "Question": "Melyik zászló gyakran összekeveredik a magyar zászlóval a színek miatt?",
+    "WaitTimeInSec": 12,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Románia",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Chad",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Olaszország",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Egyik sem",
+          "IsCorrect": true
+        }
+      ]
+    }
+  },
+  {
+    "Question": "Melyik zászló gyakran összekeveredik az Etiópia zászlójával, mert ugyanazok a színek, de nincs embléma?",
+    "WaitTimeInSec": 11,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Chad",
+          "IsCorrect": true
+        },
+        {
+          "Text": "Románia",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Szenegál",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Mali",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "A magyar zászló három sávból áll, és a színei a szivárvány színei.",
+    "WaitTimeInSec": 10,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": false
+      }
+    }
+  }
+]

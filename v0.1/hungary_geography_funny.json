@@ -1,0 +1,177 @@
+[
+  {
+    "Question": "Magyarország határos 7 országgal, de nem a Szlovákia.",
+    "WaitTimeInSec": 12,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": false
+      }
+    }
+  },
+  {
+    "Question": "A Duna a világ leghosszabb folyója.",
+    "WaitTimeInSec": 9,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": false
+      }
+    }
+  },
+  {
+    "Question": "Budapest 1873-ban született, de a város neve még a 20. században is \"Buda\" volt.",
+    "WaitTimeInSec": 11,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": false
+      }
+    }
+  },
+  {
+    "Question": "A Balaton a legnagyobb tó Közép-Európában, és a \"magyar tenger\" néven is ismert.",
+    "WaitTimeInSec": 10,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "Kékes a legmagasabb hegy Magyarországon, és a Mátrában található.",
+    "WaitTimeInSec": 13,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "Melyik magyar hegy a legmagasabb?",
+    "WaitTimeInSec": 15,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Kékes",
+          "IsCorrect": true
+        },
+        {
+          "Text": "Mátra",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Tisza",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Balaton",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "Melyik folyó folyik át Budapest központján?",
+    "WaitTimeInSec": 14,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Duna",
+          "IsCorrect": true
+        },
+        {
+          "Text": "Tisza",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Száva",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Mura",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "Melyik magyar város a legnagyobb népességgel rendelkezik?",
+    "WaitTimeInSec": 12,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Debrecen",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Szeged",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Budapest",
+          "IsCorrect": true
+        },
+        {
+          "Text": "Miskolc",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "Melyik magyar tavat nevezik \"magyar tengernek\"?",
+    "WaitTimeInSec": 10,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Balaton",
+          "IsCorrect": true
+        },
+        {
+          "Text": "Tisza-tó",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Dráva-tó",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Danube-tó",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "Melyik ország határos Magyarországgal a legkevesebb kilométerrel?",
+    "WaitTimeInSec": 16,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Austria",
+          "IsCorrect": true
+        },
+        {
+          "Text": "Szlovákia",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Románia",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Szerbia",
+          "IsCorrect": false
+        }
+      ]
+    }
+  }
+]

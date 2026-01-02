@@ -1,0 +1,162 @@
+[
+  {
+    "Question": "A magyar konyha híres a nagy adagokról, ezért a \"tökéletes\" étel a \"több mint egy tányér\".",
+    "WaitTimeInSec": 12,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "A gulyás eredetileg egy tűzhelyen főtt étel, amelyet a magyar lovasok a csapás után fogyasztottak.",
+    "WaitTimeInSec": 10,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": false
+      }
+    }
+  },
+  {
+    "Question": "Melyik étel a következő nem tartalmazza a paprikát?",
+    "WaitTimeInSec": 15,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Gulyás",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Lecsó",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Töltött káposzta",
+          "IsCorrect": true
+        },
+        {
+          "Text": "Csirkepaprikás",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "A \"töltött paprika\" egy hagyományos magyar étel, amelyben a paprika tele van töltelékkel.",
+    "WaitTimeInSec": 9,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "Melyik állítás a leginkább tükrözi a külföldiek általános félreértését a magyar konyhával kapcsolatban?",
+    "WaitTimeInSec": 14,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "A magyar konyha csak paprika és gulyásból áll",
+          "IsCorrect": true
+        },
+        {
+          "Text": "A magyar konyha kizárólag húsételekből áll",
+          "IsCorrect": false
+        },
+        {
+          "Text": "A magyar konyha csak süteményekből áll",
+          "IsCorrect": false
+        },
+        {
+          "Text": "A magyar konyha csak salátákból áll",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "A \"paprika\" a Capsicum annuum növény gyümölcse, amelyet fűszerként használnak.",
+    "WaitTimeInSec": 11,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "Melyik magyar étel nem tartalmaz paprikát?",
+    "WaitTimeInSec": 13,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Gulyás",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Lecsó",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Töltött káposzta",
+          "IsCorrect": true
+        },
+        {
+          "Text": "Paprikás csirke",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "A magyar konyha híres a \"kicsi adagok\" miatt, így a vendégek gyakran csak egy kis falat kapnak.",
+    "WaitTimeInSec": 10,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": false
+      }
+    }
+  },
+  {
+    "Question": "Melyik kifejezés a leginkább jelenti a magyar konyha \"bőség\" kultúráját?",
+    "WaitTimeInSec": 12,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Kicsi tányér",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Több mint egy tányér",
+          "IsCorrect": true
+        },
+        {
+          "Text": "Kis adag",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Kis mennyiség",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "A \"paprika\" nem csak fűszerként, hanem gyümölcként is fogyasztható, például salátákban.",
+    "WaitTimeInSec": 9,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  }
+]

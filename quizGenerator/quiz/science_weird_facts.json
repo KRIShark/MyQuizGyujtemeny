@@ -1,0 +1,162 @@
+[
+  {
+    "Question": "A banán egy bogyó, de a málna nem.",
+    "WaitTimeInSec": 12,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "A wombatok kocka alakú székletet csinálnak.",
+    "WaitTimeInSec": 12,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "A Eiffel-torony 15 centiméterrel nő a nyárban a hőmérséklet miatt.",
+    "WaitTimeInSec": 12,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "Néhány teknős a hátsó részen keresztül tud légzést végezni.",
+    "WaitTimeInSec": 12,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "Az emberi test 99%-a szén, oxigén, hidrogén és nitrogén elemekből áll.",
+    "WaitTimeInSec": 12,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "A Hold sajtból készült.",
+    "WaitTimeInSec": 12,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": false
+      }
+    }
+  },
+  {
+    "Question": "Melyik állat termel kocka alakú székletet? A) Elefánt B) Wombat C) Kenguru D) Kakas",
+    "WaitTimeInSec": 12,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Elefánt",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Wombat",
+          "IsCorrect": true
+        },
+        {
+          "Text": "Kenguru",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Kakas",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "Melyik elem a legnagyobb arányban található az emberi testben? A) Oxigén B) Szén C) Hidrogén D) Nitrogén",
+    "WaitTimeInSec": 12,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Oxigén",
+          "IsCorrect": true
+        },
+        {
+          "Text": "Szén",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Hidrogén",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Nitrogén",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "Melyik állítás igaz a Nagy Kínai Falra? A) Látható a Holdról B) 21,000 km hosszú C) 10 km magas D) 1 km széles",
+    "WaitTimeInSec": 12,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Látható a Holdról",
+          "IsCorrect": false
+        },
+        {
+          "Text": "21,000 km hosszú",
+          "IsCorrect": true
+        },
+        {
+          "Text": "10 km magas",
+          "IsCorrect": false
+        },
+        {
+          "Text": "1 km széles",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "Melyik állítás igaz a Holdra? A) Sajtból készült B) Kicsi bolygó C) Nagy szilárd test D) Fekete lyuk",
+    "WaitTimeInSec": 12,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Sajtból készült",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Kicsi bolygó",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Nagy szilárd test",
+          "IsCorrect": true
+        },
+        {
+          "Text": "Fekete lyuk",
+          "IsCorrect": false
+        }
+      ]
+    }
+  }
+]

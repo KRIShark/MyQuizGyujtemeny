@@ -1,0 +1,162 @@
+[
+  {
+    "Question": "The Hungarian alphabet has 44 letters.",
+    "WaitTimeInSec": 12,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "The letter 'y' is used as a separate letter in native Hungarian words.",
+    "WaitTimeInSec": 10,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": false
+      }
+    }
+  },
+  {
+    "Question": "Which digraphs contain the letter 'y' in Hungarian orthography?",
+    "WaitTimeInSec": 14,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "gy, ly, ny, ty",
+          "IsCorrect": true
+        },
+        {
+          "Text": "gy, ly, ny, ty, hy",
+          "IsCorrect": false
+        },
+        {
+          "Text": "gy, ly, ny, ty, hy, sh",
+          "IsCorrect": false
+        },
+        {
+          "Text": "gy, ly, ny, ty, hy, sh, zh",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "The letter 'q' is commonly used in Hungarian native words.",
+    "WaitTimeInSec": 9,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": false
+      }
+    }
+  },
+  {
+    "Question": "Which of the following letters are only found in Hungarian family names or foreign words?",
+    "WaitTimeInSec": 13,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Q, W, X, Y",
+          "IsCorrect": true
+        },
+        {
+          "Text": "Q, W, X, Z",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Q, W, X, V",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Q, W, X, U",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "The digraph 'gy' represents the sound /ɟ/.",
+    "WaitTimeInSec": 11,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "The digraph 'ny' in Hungarian orthography represents which sound?",
+    "WaitTimeInSec": 12,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "/ɲ/",
+          "IsCorrect": true
+        },
+        {
+          "Text": "/n/",
+          "IsCorrect": false
+        },
+        {
+          "Text": "/ŋ/",
+          "IsCorrect": false
+        },
+        {
+          "Text": "/ɲɲ/",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "The digraph 'ty' in Hungarian orthography represents the sound /c/.",
+    "WaitTimeInSec": 10,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "Which of the following statements is true regarding the letter 'y' in Hungarian orthography?",
+    "WaitTimeInSec": 15,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "It is used in the word 'hogy'.",
+          "IsCorrect": false
+        },
+        {
+          "Text": "It is used only in digraphs 'gy', 'ly', 'ny', 'ty'.",
+          "IsCorrect": true
+        },
+        {
+          "Text": "It is used in all foreign words.",
+          "IsCorrect": false
+        },
+        {
+          "Text": "It is used in all Hungarian family names.",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "Hungarian orthography includes rules for hyphenation, punctuation, collation, abbreviations, and date writing.",
+    "WaitTimeInSec": 10,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  }
+]

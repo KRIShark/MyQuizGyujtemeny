@@ -1,0 +1,177 @@
+[
+  {
+    "Question": "A 1776. július 4-én a Second Continental Congress egy \"Slack\" csatornán keresztül fogadta el a függetlenségi nyilatkozatot, amelyet a \"taxation without representation\" miatt írtak.",
+    "WaitTimeInSec": 12,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "1776, Slack csatorna",
+          "IsCorrect": true
+        },
+        {
+          "Text": "1776, Twitter",
+          "IsCorrect": false
+        },
+        {
+          "Text": "1789, Slack csatorna",
+          "IsCorrect": false
+        },
+        {
+          "Text": "1776, Facebook Live",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "A Magna Carta 1215-ben született, és a magyar királyi hatalom korlátozását jelentette.",
+    "WaitTimeInSec": 10,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": false
+      }
+    }
+  },
+  {
+    "Question": "A francia forradalom 1789-ben kezdődött, amikor a \"Facebook\" felhasználók megosztották a \"Liberté, égalité, fraternité\" hashtageket.",
+    "WaitTimeInSec": 14,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "1789, Facebook",
+          "IsCorrect": true
+        },
+        {
+          "Text": "1789, Twitter",
+          "IsCorrect": false
+        },
+        {
+          "Text": "1792, Facebook",
+          "IsCorrect": false
+        },
+        {
+          "Text": "1789, Instagram",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "Az amerikai polgárháború 1861 és 1865 között zajlott, és a fegyveres konfliktus a szövetségi államok és a konfederáció között zajlott, de a konfliktus fő oka a színes pólók választása volt.",
+    "WaitTimeInSec": 9,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": false
+      }
+    }
+  },
+  {
+    "Question": "A Waterloo csata 1815-ben zajlott, amikor Napóleon egy \"Zoom\" videóhíváson próbálta meg nyomni a brit csapatot.",
+    "WaitTimeInSec": 11,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "1815, Zoom",
+          "IsCorrect": true
+        },
+        {
+          "Text": "1815, Skype",
+          "IsCorrect": false
+        },
+        {
+          "Text": "1815, FaceTime",
+          "IsCorrect": false
+        },
+        {
+          "Text": "1815, Google Meet",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "Az ipari forradalom 18. században kezdődött, és a gőzmozgó motorok megjelenésével vált lehetővé a masszabú gyártás, de a fő cél a közösségi média platformok fejlesztése volt.",
+    "WaitTimeInSec": 10,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": false
+      }
+    }
+  },
+  {
+    "Question": "A Boston Tea Party 1773-ban történt, amikor a brit teafüggőket \"Instagram\" felhasználókként ábrázolták, akik a teafőzeteket \"story\" formájában osztották meg.",
+    "WaitTimeInSec": 12,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "1773, Instagram",
+          "IsCorrect": true
+        },
+        {
+          "Text": "1773, Facebook",
+          "IsCorrect": false
+        },
+        {
+          "Text": "1773, Twitter",
+          "IsCorrect": false
+        },
+        {
+          "Text": "1773, TikTok",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "A berlini fal 1989-ben omlott le, és a nyitott kapuk a \"TikTok\" trendekhez vezettek.",
+    "WaitTimeInSec": 9,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": false
+      }
+    }
+  },
+  {
+    "Question": "A Versailles-i békeszerződés 1919-ben írták alá, és a \"LinkedIn\" profilokban megosztották a béke üzenetet.",
+    "WaitTimeInSec": 13,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "1919, LinkedIn",
+          "IsCorrect": true
+        },
+        {
+          "Text": "1919, Facebook",
+          "IsCorrect": false
+        },
+        {
+          "Text": "1919, Twitter",
+          "IsCorrect": false
+        },
+        {
+          "Text": "1919, Instagram",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "Columbus 1492-ben felfedezte Amerikát, és a \"Google Maps\" térképen jelölte meg a helyét.",
+    "WaitTimeInSec": 8,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": false
+      }
+    }
+  }
+]

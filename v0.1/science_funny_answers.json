@@ -1,7 +1,7 @@
 [
   {
-    "Question": "Magyarország fővárosa Budapest.",
-    "WaitTimeInSec": 12,
+    "Question": "A Nap felszíni hőmérséklete körülbelül 5800 Kelvin.",
+    "WaitTimeInSec": 10,
     "Answer": {
       "AnswerType": 0,
       "TrueFalseAnswers": {
@@ -10,7 +10,17 @@
     }
   },
   {
-    "Question": "Magyarország főzőfogása a gulyás.",
+    "Question": "A Föld a Naprendszer harmadik legnagyobb bolygó.",
+    "WaitTimeInSec": 12,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": false
+      }
+    }
+  },
+  {
+    "Question": "A Galaxisban több milliárd csillag található.",
     "WaitTimeInSec": 9,
     "Answer": {
       "AnswerType": 0,
@@ -20,17 +30,7 @@
     }
   },
   {
-    "Question": "Magyarország területén található a Dunakanyar.",
-    "WaitTimeInSec": 14,
-    "Answer": {
-      "AnswerType": 0,
-      "TrueFalseAnswers": {
-        "IsTrueOrFlase": true
-      }
-    }
-  },
-  {
-    "Question": "Magyarországon van a Székelyföld.",
+    "Question": "Az üstökösök a Naprendszerben csak a Vénusz körül keringnek.",
     "WaitTimeInSec": 11,
     "Answer": {
       "AnswerType": 0,
@@ -40,7 +40,7 @@
     }
   },
   {
-    "Question": "Magyarország a világ legnagyobb zöldségtermelő országa.",
+    "Question": "A Naprendszerben a Föld és a Mars közötti távolság 5 AU.",
     "WaitTimeInSec": 13,
     "Answer": {
       "AnswerType": 0,
@@ -50,160 +50,175 @@
     }
   },
   {
-    "Question": "Magyarországon található a Balaton – a legnagyobb tava Európában.",
-    "WaitTimeInSec": 10,
-    "Answer": {
-      "AnswerType": 0,
-      "TrueFalseAnswers": {
-        "IsTrueOrFlase": true
-      }
-    }
-  },
-  {
-    "Question": "Melyik nyelvet beszélik Magyarországon?",
-    "WaitTimeInSec": 12,
-    "Answer": {
-      "AnswerType": 1,
-      "MultiChoiceAnswer": [
-        {
-          "Text": "Magyar",
-          "IsCorrect": true
-        },
-        {
-          "Text": "Német",
-          "IsCorrect": false
-        },
-        {
-          "Text": "Angol",
-          "IsCorrect": false
-        },
-        {
-          "Text": "Francia",
-          "IsCorrect": false
-        }
-      ]
-    }
-  },
-  {
-    "Question": "Melyik évben szűrődött ki a Székelyföld a magyar teremtől?",
-    "WaitTimeInSec": 8,
-    "Answer": {
-      "AnswerType": 1,
-      "MultiChoiceAnswer": [
-        {
-          "Text": "1945",
-          "IsCorrect": false
-        },
-        {
-          "Text": "1918",
-          "IsCorrect": false
-        },
-        {
-          "Text": "1920",
-          "IsCorrect": true
-        },
-        {
-          "Text": "1939",
-          "IsCorrect": false
-        }
-      ]
-    }
-  },
-  {
-    "Question": "Mikor koronázták meg Szent István első magyar királyt?",
+    "Question": "Melyik bolygón van a leghosszabb nap (forgási idő)?",
     "WaitTimeInSec": 10,
     "Answer": {
       "AnswerType": 1,
       "MultiChoiceAnswer": [
         {
-          "Text": "1000",
+          "Text": "Merkúr",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Vénusz",
           "IsCorrect": true
         },
         {
-          "Text": "1001",
+          "Text": "Mars",
           "IsCorrect": false
         },
         {
-          "Text": "999",
-          "IsCorrect": false
-        },
-        {
-          "Text": "1003",
+          "Text": "Jupiter",
           "IsCorrect": false
         }
       ]
     }
   },
   {
-    "Question": "Melyik városban található a Parlament?",
+    "Question": "Mekkora a Nap becsült kora?",
     "WaitTimeInSec": 12,
     "Answer": {
       "AnswerType": 1,
       "MultiChoiceAnswer": [
         {
-          "Text": "Budapest",
+          "Text": "4,6 milliárd év",
           "IsCorrect": true
         },
         {
-          "Text": "Debrecen",
+          "Text": "1 milliárd év",
           "IsCorrect": false
         },
         {
-          "Text": "Szeged",
+          "Text": "10 milliárd év",
           "IsCorrect": false
         },
         {
-          "Text": "Miskolc",
+          "Text": "100 millió év",
           "IsCorrect": false
         }
       ]
     }
   },
   {
-    "Question": "Melyik borra mostanában ismertek a Tokaji Joghás?",
-    "WaitTimeInSec": 20,
-    "Answer": {
-      "AnswerType": 1,
-      "MultiChoiceAnswer": [
-        {
-          "Text": "Tokaji",
-          "IsCorrect": true
-        },
-        {
-          "Text": "Bocks",
-          "IsCorrect": false
-        },
-        {
-          "Text": "Palinka",
-          "IsCorrect": false
-        },
-        {
-          "Text": "Puli",
-          "IsCorrect": false
-        }
-      ]
-    }
-  },
-  {
-    "Question": "Melyik a legmagasabb hegy Magyarországon?",
+    "Question": "Melyik a következő közül nem galaxis típus?",
     "WaitTimeInSec": 9,
     "Answer": {
       "AnswerType": 1,
       "MultiChoiceAnswer": [
         {
-          "Text": "Kékes",
+          "Text": "Spirális",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Elliptikus",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Irregularis",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Négyzetes",
+          "IsCorrect": true
+        }
+      ]
+    }
+  },
+  {
+    "Question": "Mi a Föld légkörének fő összetevője?",
+    "WaitTimeInSec": 11,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Oxigén",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Nitrogén",
           "IsCorrect": true
         },
         {
-          "Text": "Mátra",
+          "Text": "Szén-dioxid",
           "IsCorrect": false
         },
         {
-          "Text": "Tatra",
+          "Text": "Helium",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "Melyik bolygót nevezik a \"Vörös Bolygónak\"?",
+    "WaitTimeInSec": 13,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Mars",
+          "IsCorrect": true
+        },
+        {
+          "Text": "Vénusz",
           "IsCorrect": false
         },
         {
-          "Text": "Alpok",
+          "Text": "Jupiter",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Szűrt",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "Melyik a legnagyobb Holdja a Szaturnusznak?",
+    "WaitTimeInSec": 10,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Titan",
+          "IsCorrect": true
+        },
+        {
+          "Text": "Ganymedes",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Callisto",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Europa",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "Melyik a következő közül egy kisműve a Kuiper-övön?",
+    "WaitTimeInSec": 12,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Plútó",
+          "IsCorrect": true
+        },
+        {
+          "Text": "Ceres",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Vesta",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Föld",
           "IsCorrect": false
         }
       ]

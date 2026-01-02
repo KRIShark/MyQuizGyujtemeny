@@ -1,0 +1,162 @@
+[
+  {
+    "Question": "Egy turista, aki nem olvasta a térképet, azt hitte, hogy a Drava egy kávé márka.",
+    "WaitTimeInSec": 12,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": false
+      }
+    }
+  },
+  {
+    "Question": "A Drava folyó forrása Olaszországban, Toblach közelében található.",
+    "WaitTimeInSec": 10,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "Melyik hegy a legmagasabb Európában?",
+    "WaitTimeInSec": 15,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Mount Everest",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Mount Elbrus",
+          "IsCorrect": true
+        },
+        {
+          "Text": "Mount Fuji",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Mount Kilimanjaro",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "A Duna a legnagyobb folyó Európában.",
+    "WaitTimeInSec": 9,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": false
+      }
+    }
+  },
+  {
+    "Question": "Melyik a legmagasabb csúcs a Kárpátokban?",
+    "WaitTimeInSec": 14,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Mount Elbrus",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Gerlachovský štít",
+          "IsCorrect": true
+        },
+        {
+          "Text": "Mount Everest",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Mount Fuji",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "A Csepel-sziget a Duna legnagyobb szigete.",
+    "WaitTimeInSec": 11,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "Melyik folyó a legnagyobb ágazata a Duna ágazatai között?",
+    "WaitTimeInSec": 13,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Drava",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Tisza",
+          "IsCorrect": true
+        },
+        {
+          "Text": "Sava",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Prut",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "A Fuji-hegy magasabb, mint az Elbrus.",
+    "WaitTimeInSec": 8,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": false
+      }
+    }
+  },
+  {
+    "Question": "Melyik folyó NEM folyik a Duna felé?",
+    "WaitTimeInSec": 16,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Drava",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Tisza",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Sava",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Rhine",
+          "IsCorrect": true
+        }
+      ]
+    }
+  },
+  {
+    "Question": "Egy turista, aki nem olvasta a térképet, azt hitte, hogy a Duna a Földközi-tengerekbe folyik.",
+    "WaitTimeInSec": 12,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": false
+      }
+    }
+  }
+]

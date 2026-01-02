@@ -1,0 +1,177 @@
+[
+  {
+    "Question": "I. Stephen was born in 975.",
+    "WaitTimeInSec": 12,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "Who was I. Stephen's father?",
+    "WaitTimeInSec": 10,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Géza",
+          "IsCorrect": true
+        },
+        {
+          "Text": "László",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Béla",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Szent László",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "I. Stephen was crowned king on 25 December 1000.",
+    "WaitTimeInSec": 9,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "Which of the following was NOT a contribution of I. Stephen?",
+    "WaitTimeInSec": 15,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Establishing bishoprics",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Building fortresses",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Establishing the first Hungarian parliament",
+          "IsCorrect": true
+        },
+        {
+          "Text": "Organizing the church",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "II. Stephen was the son of Géza.",
+    "WaitTimeInSec": 11,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "Who succeeded I. Stephen as king?",
+    "WaitTimeInSec": 13,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Géza",
+          "IsCorrect": true
+        },
+        {
+          "Text": "Béla",
+          "IsCorrect": false
+        },
+        {
+          "Text": "László",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Szent László",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "IV. Stephen was crowned by the Archbishop of Kalocsa.",
+    "WaitTimeInSec": 14,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "Who crowned IV. Stephen?",
+    "WaitTimeInSec": 10,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Archbishop of Kalocsa",
+          "IsCorrect": true
+        },
+        {
+          "Text": "Archbishop of Esztergom",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Pope",
+          "IsCorrect": false
+        },
+        {
+          "Text": "King of Hungary",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "II. Stephen was king of Croatia as well.",
+    "WaitTimeInSec": 12,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "Which of the following is NOT a title associated with Saint Stephen?",
+    "WaitTimeInSec": 9,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Árpádházi király",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Magyarország fővédőszentje",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Egyházi szervező",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Királyi trónörökös",
+          "IsCorrect": true
+        }
+      ]
+    }
+  }
+]

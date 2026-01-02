@@ -1,1 +1,104 @@
-{"thema": ["Create a quiz of Hungary in hungarian language. Answer only with the given json", "Create a quiz of Germany in hungarian language. Answer only with the given json"]}
+{
+  "thema": [
+    {
+      "name": "rivers_mountains_lost_tourists",
+      "instruction": "Create an entertaining geography quiz in Hungarian language about rivers, mountains, and tourists who clearly did not read the map. Use humor but keep geographic facts correct. Answer only with the given JSON"
+    },
+    {
+      "name": "hungarian_food_funny",
+      "instruction": "Create a funny quiz about Hungarian food in Hungarian language. Include jokes about paprika, portion sizes, and foreign misunderstandings of Hungarian cuisine. Answer only with the given JSON"
+    },
+    {
+      "name": "world_food_misunderstandings",
+      "instruction": "Create a humorous quiz in Hungarian language about world-famous foods that are often misunderstood, mispronounced, or prepared incorrectly. Answer only with the given JSON"
+    },
+    {
+      "name": "everyday_general_knowledge",
+      "instruction": "Create an entertaining general knowledge quiz in Hungarian language focused on everyday situations, common sense, and things people think they know but often get wrong. Answer only with the given JSON"
+    },
+    {
+      "name": "logic_trick_questions",
+      "instruction": "Create a funny logic quiz in Hungarian language with trick questions that sound simple but require careful thinking. Use playful wording to mislead without being unfair. Answer only with the given JSON"
+    },
+    {
+      "name": "movies_and_series_funny",
+      "instruction": "Create a humorous quiz about movies and TV series in Hungarian language. Include exaggerated plot summaries and funny descriptions while keeping the answers clear. Answer only with the given JSON"
+    },
+    {
+      "name": "movie_quotes_funny",
+      "instruction": "Create a funny quiz about iconic movie quotes in Hungarian language. Mix correct quotes with slightly wrong or absurd variations for humor. Answer only with the given JSON"
+    },
+    {
+      "name": "video_games_mixed",
+      "instruction": "Create an entertaining quiz about video games in Hungarian language, covering both retro and modern titles. Use gamer humor, nostalgia, and playful stereotypes. Answer only with the given JSON"
+    },
+    {
+      "name": "gamer_memes_funny",
+      "instruction": "Create a funny gamer quiz in Hungarian language inspired by common gaming memes, fails, and inside jokes, while still being understandable for casual players. Answer only with the given JSON"
+    },
+    {
+      "name": "internet_habits_funny",
+      "instruction": "Create a humorous quiz in Hungarian language about internet habits, online behavior, and typical user mistakes, with light sarcasm and relatable situations. Answer only with the given JSON"
+    },
+    {
+      "name": "social_media_fails",
+      "instruction": "Create an entertaining quiz about social media fails in Hungarian language, focusing on awkward posts, oversharing, and algorithm confusion. Answer only with the given JSON"
+    },
+    {
+      "name": "strange_sports_funny",
+      "instruction": "Create a funny sports quiz in Hungarian language about strange, lesser-known, or surprising sports, using playful disbelief and humor. Answer only with the given JSON"
+    },
+    {
+      "name": "olympics_surprising_facts",
+      "instruction": "Create an entertaining Olympic quiz in Hungarian language with surprising, funny, or unexpected facts from Olympic history. Answer only with the given JSON"
+    },
+    {
+      "name": "animals_funny_facts",
+      "instruction": "Create a humorous animal quiz in Hungarian language with funny but true animal facts, highlighting how strange nature can be. Answer only with the given JSON"
+    },
+    {
+      "name": "pets_and_owners_funny",
+      "instruction": "Create an entertaining quiz in Hungarian language about pets and their owners, focusing on relatable, funny everyday situations. Answer only with the given JSON"
+    },
+    {
+      "name": "weather_phenomena_funny",
+      "instruction": "Create a funny quiz in Hungarian language about weather phenomena, using exaggerated descriptions of rain, wind, heat, and forecasts. Answer only with the given JSON"
+    },
+    {
+      "name": "natural_disasters_light_funny",
+      "instruction": "Create a humorous but respectful quiz about natural disasters in Hungarian language, using light humor without making fun of real suffering. Answer only with the given JSON"
+    },
+    {
+      "name": "hungarian_idioms_funny",
+      "instruction": "Create an entertaining language quiz in Hungarian language about Hungarian idioms, literal misunderstandings, and funny interpretations. Answer only with the given JSON"
+    },
+    {
+      "name": "bad_translations_funny",
+      "instruction": "Create a funny quiz in Hungarian language about bad translations and language mistakes, especially those that change meaning in absurd ways. Answer only with the given JSON"
+    },
+    {
+      "name": "everyday_life_situations",
+      "instruction": "Create a humorous quiz in Hungarian language about everyday life situations, awkward moments, and common human behavior. Answer only with the given JSON"
+    },
+    {
+      "name": "workplace_survival_funny",
+      "instruction": "Create an entertaining workplace survival quiz in Hungarian language, focusing on meetings, emails, deadlines, and office humor. Answer only with the given JSON"
+    },
+    {
+      "name": "technology_fails_funny",
+      "instruction": "Create a funny quiz in Hungarian language about technology failures, software bugs, and user errors that everyone has experienced. Answer only with the given JSON"
+    },
+    {
+      "name": "ai_from_human_view",
+      "instruction": "Create a humorous quiz about artificial intelligence in Hungarian language, written from a human perspective with mild irony and playful fear of machines. Answer only with the given JSON"
+    },
+    {
+      "name": "mixed_geography_history_knowledge",
+      "instruction": "Create an entertaining mixed quiz in Hungarian language combining geography, history, and general knowledge, with varied difficulty and humorous phrasing. Answer only with the given JSON"
+    },
+    {
+      "name": "all_trick_questions",
+      "instruction": "Create a funny quiz in Hungarian language where every question is intentionally tricky or misleading, but still fair and solvable with careful thinking. Answer only with the given JSON"
+    }
+  ]
+}

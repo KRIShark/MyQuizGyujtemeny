@@ -1,0 +1,172 @@
+[
+  {
+    "Question": "Iceland has no snakes.",
+    "WaitTimeInSec": 12,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "Denmark was the first country to legally recognize same-sex unions.",
+    "WaitTimeInSec": 10,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "Switzerland's longest railway tunnel is the Gotthard Base Tunnel.",
+    "WaitTimeInSec": 14,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "Portugal has the longest pedestrian bridge in the world.",
+    "WaitTimeInSec": 9,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "Belgium has three official languages.",
+    "WaitTimeInSec": 11,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "Austria has the tallest waterfall in Europe.",
+    "WaitTimeInSec": 13,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": false
+      }
+    }
+  },
+  {
+    "Question": "Greece has more than 6,000 islands, only 250 of which are inhabited.",
+    "WaitTimeInSec": 8,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "Which of the following is the tallest waterfall in Europe?",
+    "WaitTimeInSec": 15,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Vinnufossen (Norway)",
+          "IsCorrect": true
+        },
+        {
+          "Text": "Krimml Waterfalls (Austria)",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Iguazu Falls (Argentina)",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Niagara Falls (USA)",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "What is the length of the Gotthard Base Tunnel?",
+    "WaitTimeInSec": 16,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "57 km",
+          "IsCorrect": true
+        },
+        {
+          "Text": "35 km",
+          "IsCorrect": false
+        },
+        {
+          "Text": "20 km",
+          "IsCorrect": false
+        },
+        {
+          "Text": "10 km",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "Which country has the longest pedestrian bridge in the world?",
+    "WaitTimeInSec": 18,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Portugal",
+          "IsCorrect": true
+        },
+        {
+          "Text": "Spain",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Italy",
+          "IsCorrect": false
+        },
+        {
+          "Text": "France",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "How many official languages does Belgium have?",
+    "WaitTimeInSec": 17,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "One",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Two",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Three",
+          "IsCorrect": true
+        },
+        {
+          "Text": "Four",
+          "IsCorrect": false
+        }
+      ]
+    }
+  }
+]

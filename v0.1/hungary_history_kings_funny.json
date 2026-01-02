@@ -1,0 +1,177 @@
+[
+  {
+    "Question": "Szent István 1000. december 25-én koronázották meg Magyarország királynak.",
+    "WaitTimeInSec": 10,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "Ki tekinthető a magyar állam atyja?",
+    "WaitTimeInSec": 14,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Szent István",
+          "IsCorrect": true
+        },
+        {
+          "Text": "Szent László",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Mátyás Corvinus",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Ferenc II",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "Szent László vezette be a magyar törvények első szakaszát, amely ma is hatással van a jogrendszert.",
+    "WaitTimeInSec": 9,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "Melyik magyar király alapította a Presszburg (ma: Szlovákia) egyetemet?",
+    "WaitTimeInSec": 13,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Szent István",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Szent László",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Mátyás Corvinus",
+          "IsCorrect": true
+        },
+        {
+          "Text": "Lajos IV",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "Ferenc II volt Magyarország első, amelyet a parlament választott.",
+    "WaitTimeInSec": 8,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": false
+      }
+    }
+  },
+  {
+    "Question": "Lajos IV 1903-ban koronázta meg magát Magyarország királyaként.",
+    "WaitTimeInSec": 12,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "Melyik évben halt meg Mátyás Corvinus?",
+    "WaitTimeInSec": 11,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "1490",
+          "IsCorrect": true
+        },
+        {
+          "Text": "1511",
+          "IsCorrect": false
+        },
+        {
+          "Text": "1473",
+          "IsCorrect": false
+        },
+        {
+          "Text": "1525",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "Szent István királysági sírhelye Székesfehérváron található.",
+    "WaitTimeInSec": 15,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "Melyik magyar királyt nevezték el \"Fekete Király\"-nak?",
+    "WaitTimeInSec": 18,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Szent István",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Szent László",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Mátyás Corvinus",
+          "IsCorrect": true
+        },
+        {
+          "Text": "Lajos IV",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "Melyik magyar király támogatta a magyar nyomda első nyomtatását?",
+    "WaitTimeInSec": 16,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Szent István",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Szent László",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Mátyás Corvinus",
+          "IsCorrect": true
+        },
+        {
+          "Text": "Ferenc II",
+          "IsCorrect": false
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "Question": "A Föld a Naprendszer harmadik bolygója.",
+    "WaitTimeInSec": 10,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "Melyik bolygó a legnagyobb a Naprendszerben?",
+    "WaitTimeInSec": 12,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Mars",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Jupiter",
+          "IsCorrect": true
+        },
+        {
+          "Text": "Vénusz",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Saturn",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "A Mars felszíni átlaghőmérséklete körülbelül -63°C.",
+    "WaitTimeInSec": 9,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "Melyik bolygó a legmelegebb a Naprendszerben?",
+    "WaitTimeInSec": 11,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Merkúr",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Vénusz",
+          "IsCorrect": true
+        },
+        {
+          "Text": "Mars",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Jupiter",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "A Merkúrnak nincs légkörje.",
+    "WaitTimeInSec": 8,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "Melyik bolygó rendelkezik legnagyobb csillagközi gyűrűkkel?",
+    "WaitTimeInSec": 13,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Merkúr",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Vénusz",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Saturn",
+          "IsCorrect": true
+        },
+        {
+          "Text": "Mars",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "Az Uránusz ferde tengelye miatt a napfény csak egyetlen napig éri a felszínt.",
+    "WaitTimeInSec": 9,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": false
+      }
+    }
+  },
+  {
+    "Question": "Melyik bolygó a legnagyobb légköri szélsebességgel rendelkezik?",
+    "WaitTimeInSec": 14,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Mars",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Jupiter",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Saturn",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Neptun",
+          "IsCorrect": true
+        }
+      ]
+    }
+  },
+  {
+    "Question": "A Pluto a Naprendszerben egy kisköpenyű bolygó.",
+    "WaitTimeInSec": 10,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": false
+      }
+    }
+  },
+  {
+    "Question": "Melyik bolygó a legkisebb a Naprendszerben?",
+    "WaitTimeInSec": 12,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Merkúr",
+          "IsCorrect": true
+        },
+        {
+          "Text": "Mars",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Vénusz",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Jupiter",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "A Földön élnek a \"zöld kis emberek\" (little green men) a legnagyobb alien faj.",
+    "WaitTimeInSec": 8,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": false
+      }
+    }
+  },
+  {
+    "Question": "Melyik bolygó a leginkább kedvelt a \"zöld kis emberek\" számára?",
+    "WaitTimeInSec": 11,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "Mars",
+          "IsCorrect": true
+        },
+        {
+          "Text": "Jupiter",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Vénusz",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Merkúr",
+          "IsCorrect": false
+        }
+      ]
+    }
+  }
+]

@@ -1,6 +1,6 @@
 [
   {
-    "Question": "Magyarország fővárosa Budapest.",
+    "Question": "Szigetköz Magyarország legnagyobb szigete.",
     "WaitTimeInSec": 12,
     "Answer": {
       "AnswerType": 0,
@@ -10,7 +10,7 @@
     }
   },
   {
-    "Question": "Magyarország főzőfogása a gulyás.",
+    "Question": "Stühmer 1868-ban alapították egy hamburgi cukrászt.",
     "WaitTimeInSec": 9,
     "Answer": {
       "AnswerType": 0,
@@ -20,123 +20,113 @@
     }
   },
   {
-    "Question": "Magyarország területén található a Dunakanyar.",
-    "WaitTimeInSec": 14,
-    "Answer": {
-      "AnswerType": 0,
-      "TrueFalseAnswers": {
-        "IsTrueOrFlase": true
-      }
-    }
-  },
-  {
-    "Question": "Magyarországon van a Székelyföld.",
-    "WaitTimeInSec": 11,
-    "Answer": {
-      "AnswerType": 0,
-      "TrueFalseAnswers": {
-        "IsTrueOrFlase": false
-      }
-    }
-  },
-  {
-    "Question": "Magyarország a világ legnagyobb zöldségtermelő országa.",
-    "WaitTimeInSec": 13,
-    "Answer": {
-      "AnswerType": 0,
-      "TrueFalseAnswers": {
-        "IsTrueOrFlase": false
-      }
-    }
-  },
-  {
-    "Question": "Magyarországon található a Balaton – a legnagyobb tava Európában.",
+    "Question": "Milka magyar csokoládé márka.",
     "WaitTimeInSec": 10,
     "Answer": {
       "AnswerType": 0,
       "TrueFalseAnswers": {
+        "IsTrueOrFlase": false
+      }
+    }
+  },
+  {
+    "Question": "A Nemzeti Színház Budapest IX. kerületében található.",
+    "WaitTimeInSec": 15,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
         "IsTrueOrFlase": true
       }
     }
   },
   {
-    "Question": "Melyik nyelvet beszélik Magyarországon?",
-    "WaitTimeInSec": 12,
+    "Question": "Magyarország legnagyobb szigete a Duna partján fekszik.",
+    "WaitTimeInSec": 9,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
+    }
+  },
+  {
+    "Question": "Melyik a legnagyobb sziget Magyarországon?",
+    "WaitTimeInSec": 14,
     "Answer": {
       "AnswerType": 1,
       "MultiChoiceAnswer": [
         {
-          "Text": "Magyar",
+          "Text": "Szigetköz",
           "IsCorrect": true
         },
         {
-          "Text": "Német",
+          "Text": "Balaton",
           "IsCorrect": false
         },
         {
-          "Text": "Angol",
+          "Text": "Gömör",
           "IsCorrect": false
         },
         {
-          "Text": "Francia",
+          "Text": "Tisza",
           "IsCorrect": false
         }
       ]
     }
   },
   {
-    "Question": "Melyik évben szűrődött ki a Székelyföld a magyar teremtől?",
-    "WaitTimeInSec": 8,
+    "Question": "Melyik sziget a legnagyobb Magyarországon?",
+    "WaitTimeInSec": 11,
     "Answer": {
       "AnswerType": 1,
       "MultiChoiceAnswer": [
         {
-          "Text": "1945",
+          "Text": "Szigetköz",
+          "IsCorrect": true
+        },
+        {
+          "Text": "Balaton",
           "IsCorrect": false
         },
         {
-          "Text": "1918",
+          "Text": "Gömör",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Tisza",
+          "IsCorrect": false
+        }
+      ]
+    }
+  },
+  {
+    "Question": "Melyik évben alapították a Stühmer csokoládé vállalatot?",
+    "WaitTimeInSec": 10,
+    "Answer": {
+      "AnswerType": 1,
+      "MultiChoiceAnswer": [
+        {
+          "Text": "1868",
+          "IsCorrect": true
+        },
+        {
+          "Text": "1901",
           "IsCorrect": false
         },
         {
           "Text": "1920",
-          "IsCorrect": true
+          "IsCorrect": false
         },
         {
-          "Text": "1939",
+          "Text": "1950",
           "IsCorrect": false
         }
       ]
     }
   },
   {
-    "Question": "Mikor koronázták meg Szent István első magyar királyt?",
-    "WaitTimeInSec": 10,
-    "Answer": {
-      "AnswerType": 1,
-      "MultiChoiceAnswer": [
-        {
-          "Text": "1000",
-          "IsCorrect": true
-        },
-        {
-          "Text": "1001",
-          "IsCorrect": false
-        },
-        {
-          "Text": "999",
-          "IsCorrect": false
-        },
-        {
-          "Text": "1003",
-          "IsCorrect": false
-        }
-      ]
-    }
-  },
-  {
-    "Question": "Melyik városban található a Parlament?",
-    "WaitTimeInSec": 12,
+    "Question": "Melyik városban található a Nemzeti Színház?",
+    "WaitTimeInSec": 13,
     "Answer": {
       "AnswerType": 1,
       "MultiChoiceAnswer": [
@@ -160,53 +150,63 @@
     }
   },
   {
-    "Question": "Melyik borra mostanában ismertek a Tokaji Joghás?",
-    "WaitTimeInSec": 20,
+    "Question": "Melyik a svájci csokoládé márka, amely Magyarországon is népszerű?",
+    "WaitTimeInSec": 9,
     "Answer": {
       "AnswerType": 1,
       "MultiChoiceAnswer": [
         {
-          "Text": "Tokaji",
+          "Text": "Milka",
           "IsCorrect": true
         },
         {
-          "Text": "Bocks",
+          "Text": "Stühmer",
           "IsCorrect": false
         },
         {
-          "Text": "Palinka",
+          "Text": "Ferrero",
           "IsCorrect": false
         },
         {
-          "Text": "Puli",
+          "Text": "Cadbury",
           "IsCorrect": false
         }
       ]
     }
   },
   {
-    "Question": "Melyik a legmagasabb hegy Magyarországon?",
-    "WaitTimeInSec": 9,
+    "Question": "Mekkora a Szigetköz területe?",
+    "WaitTimeInSec": 15,
     "Answer": {
       "AnswerType": 1,
       "MultiChoiceAnswer": [
         {
-          "Text": "Kékes",
+          "Text": "375 km²",
           "IsCorrect": true
         },
         {
-          "Text": "Mátra",
+          "Text": "200 km²",
           "IsCorrect": false
         },
         {
-          "Text": "Tatra",
+          "Text": "500 km²",
           "IsCorrect": false
         },
         {
-          "Text": "Alpok",
+          "Text": "100 km²",
           "IsCorrect": false
         }
       ]
+    }
+  },
+  {
+    "Question": "Stühmer csokoládé vállalatot 1868-ban alapították.",
+    "WaitTimeInSec": 11,
+    "Answer": {
+      "AnswerType": 0,
+      "TrueFalseAnswers": {
+        "IsTrueOrFlase": true
+      }
     }
   }
 ]
